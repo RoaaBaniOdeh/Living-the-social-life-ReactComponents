@@ -1,0 +1,36 @@
+a{
+    color: #1792d2;
+}
+a:hover,
+a:focus{
+    color: #143774;
+}
+strong{
+font-weight: 700;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin-left: 2em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
+    padding: .25em 0;
+    /*n*/
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav a:hover,
+nav a:focus {
+    color: #1792d2;
+}

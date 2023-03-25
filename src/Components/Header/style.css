@@ -1,0 +1,16 @@
+.container{
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+ }
+ .container-flex{
+    display: flex;
+    justify-content: space-between; 
+          flex-direction: column;
+ }
+header {
+    text-align: center;
+    background: #f8f8f8;
+    padding: 2em 0;  
+    margin-bottom: 3em;
+}
